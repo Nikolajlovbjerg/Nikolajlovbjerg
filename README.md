@@ -1,7 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
 Hi there! I'm currently studying IT-Architecture, where I explore everything from coding and databases to systems design and software development.
 I'm passionate about building efficient, scalable solutions and love learning new technologies to improve my craft. <br>
 
