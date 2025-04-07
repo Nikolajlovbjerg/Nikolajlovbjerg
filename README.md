@@ -13,6 +13,5 @@ I'm passionate about building efficient, scalable solutions and love learning ne
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikolajlovbjerg&icon=8&color=12)](https://visitcount.itsvg.in)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikolaj-løvbjerg-987057283) 
